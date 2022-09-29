@@ -15,3 +15,45 @@ p {
 }
 
 h2 {margin-left: 25px; }
+img {display: block;margin-left: auto;margin-right: auto;width: 50%;}
+div.intro {
+  margin: auto;
+  width: 90%;
+  border: 3px solid slategray;
+  padding: 10px;
+  background-color: aliceblue;
+  text-align: center;
+}
+h1 {font-family: 'Noto Serif Display', serif;
+    font-weight: bold;
+
+}
+
+h3 {font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-weight: 500;
+
+}
+
+h4 {font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-weight: 500;
+    text-align: center;
+  }
+
+h2 {font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+p {font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+div.footer {font-style: italic;
+font-weight: 300;
+font-size: 8pt;
+margin-bottom: 50px;
+margin-top: 25;
+
+}
